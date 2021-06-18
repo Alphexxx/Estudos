@@ -1,2 +1,2 @@
-# Estudos
- Repositório dedicado para os estudos
+# Estudos 
+ </strong>Repositório dedicado para os estudos</strong>
