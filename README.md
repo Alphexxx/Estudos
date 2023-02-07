@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Estudos 📚
-Repositório dedicado para os estudos
+# Studies 📚
+Dedicated repository for my studies
 
 
